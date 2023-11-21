@@ -1,0 +1,3 @@
+interface DictionaryFactory {
+    Dictionary createDictionary();
+}
