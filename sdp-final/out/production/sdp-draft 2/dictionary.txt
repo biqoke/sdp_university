@@ -1,0 +1,63 @@
+baby,ребенок
+jump,прыгать
+house, дом
+cat, кошка
+table, стол
+apple, яблоко
+book, книга
+car, машина
+sun, солнце
+hand, рука
+head, голова
+window, окно
+chair, кресло
+mountain, гора
+water, вода
+flower, цветок
+star, звезда
+school, школа
+phone, телефон
+computer, компьютер
+day, день
+night, ночь
+winter, зима
+summer, лето
+autumn, осень
+spring, весна
+bird, птица
+fish, рыба
+planet, планета
+earth, земля
+air, воздух
+dog, собака
+door, дверь
+pen, ручка
+tree, дерево
+road, дорога
+music, музыка
+fire, огонь
+clock, часы
+shoes, обувь
+river, река
+moon, луна
+cloud, облако
+mirror, зеркало
+city, город
+bridge, мост
+hat, шляпа
+key, ключ
+picture, картина
+snake, змея
+garden, сад
+beach, пляж
+sky, небо
+chair, стул
+lamp, лампа
+houseplant, комнатное растение
+star, звезда
+cake, торт
+plane, самолет
+guitar, гитара
+flag, флаг
+hello,привет
+3,3
